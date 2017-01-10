@@ -1,0 +1,7 @@
+
+// ***Projet de programmation***
+//Par Maxime Renard et Fabien Bethegnies-Genty 
+
+La compilation du projet se fait anvec la commande suivante :
+./compile jeu_canonn.c
+
